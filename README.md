@@ -1,2 +1,2 @@
 # FaustPowerAmp
-Implementation of a power amp stage for the guitar amp simulation, in Faust
+Implementation of a power amp stage for the guitar amp simulation, in Faust. We used the Temper Distorsion Faust source code (see https://github.com/creativeintent/temper) and adapted/completed it to simulate the Power Amp Stage of a tube guitar amp simulation. We presented this at the IFC 2020 conference (paper : https://ifc20.sciencesconf.org/321481, video : https://www.youtube.com/watch?v=CYHkdS7DRkQ)
